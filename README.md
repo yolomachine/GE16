@@ -1,4 +1,4 @@
 # -zh
-Raw raster graphic editor;
-MS Paint alike;
-First term.
++ Raw raster graphic editor;
++ MS Paint alike;
++ First term.
