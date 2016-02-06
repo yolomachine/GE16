@@ -1,4 +1,5 @@
 # -zh
-+ Raw raster graphic editor;
-+ MS Paint alike;
-+ First term.
++ Free Pascal
++ Raw raster graphic editor
++ MS Paint alike
++ First term
