@@ -1,2 +1,4 @@
 # -zh
-1 term // fps
+Raw raster graphic editor;
+MS Paint alike;
+First term.
