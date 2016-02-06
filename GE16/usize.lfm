@@ -1,0 +1,68 @@
+object ResizeForm: TResizeForm
+  Left = 752
+  Height = 107
+  Top = 400
+  Width = 289
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'Size'
+  ClientHeight = 107
+  ClientWidth = 289
+  OnActivate = FormActivate
+  Position = poDesktopCenter
+  LCLVersion = '1.4.2.0'
+  object WidthSpin: TSpinEdit
+    Left = 24
+    Height = 23
+    Top = 34
+    Width = 113
+    MaxValue = 1024
+    MinValue = 640
+    TabOrder = 1
+    Value = 640
+  end
+  object HeightSpin: TSpinEdit
+    Left = 152
+    Height = 23
+    Top = 34
+    Width = 113
+    MaxValue = 768
+    MinValue = 480
+    TabOrder = 2
+    Value = 480
+  end
+  object STWidth: TStaticText
+    Left = 24
+    Height = 19
+    Top = 8
+    Width = 41
+    Caption = 'Width'
+    TabOrder = 3
+  end
+  object STHeight: TStaticText
+    Left = 152
+    Height = 19
+    Top = 8
+    Width = 41
+    Caption = 'Height'
+    TabOrder = 4
+  end
+  object BConfirm: TButton
+    Left = 64
+    Height = 26
+    Top = 68
+    Width = 74
+    Caption = 'OK'
+    OnClick = ButtonClick
+    TabOrder = 0
+  end
+  object BCancel: TButton
+    Left = 152
+    Height = 26
+    Top = 68
+    Width = 73
+    Caption = 'Cancel'
+    OnClick = ButtonClick
+    TabOrder = 5
+  end
+end

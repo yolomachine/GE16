@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\x86_64-win64\fpc.exe" Date="1189852565"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\ьтт\Desktop\Ultra Hardcore Graphics Editor 3000\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\ьтт\Desktop\Ultra Hardcore Graphics Editor 3000\&quot; &quot;-FUC:\Users\ьтт\Desktop\Ultra Hardcore Graphics Editor 3000\lib\x86_64-win64\&quot; -dLCL -dLCLwin32 GraphicsEditor.lpr"/>
+</CONFIG>
