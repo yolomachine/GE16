@@ -1,5 +1,1 @@
-# -zh
-+ Free Pascal
-+ Raw raster graphic editor
-+ MS Paint alike
-+ First term
+x64 compiled editor included
